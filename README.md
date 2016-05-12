@@ -1,14 +1,18 @@
 # Automated-E-Mail Using Python
+Python scrips on automatic Email
 
 
-# IMPORTANT !!
-## Gmail made some security change change recently. You now have to allow “less secure apps” on your account. Otherwise, you won’t be able to connect to it with your python script. Use the link : 
+
+### IMPORTANT !!
+
+##### Gmail made some security change change recently. You now have to allow “less secure apps” on your account. Otherwise, you won’t be able to connect to it with your python script. Use the link : 
+
 
 https://myaccount.google.com/intro/security
 
 
 
-Python scrips on automatic Email
+
 
 ## To send a basic email (without subject line), with a Gmail address.
 ######Refer mail.py
